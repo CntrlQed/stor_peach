@@ -63,11 +63,17 @@ flutter:
     - assets/peach.png
     - assets/starting.png
     - assets/Google.png
-    - assets/home_Ad.png
-    - assets/Person.png
+    - assets/inactive_status.png
+    - assets/Notification.png
+    - assets/active_status.png
+    - assets/costume.png
     - assets/Diversity.png
     - assets/Heart.png
+    - assets/home_Ad.png
+    - assets/Successful Delivery.png
     - assets/Scroll.png
+    - assets/Person.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
